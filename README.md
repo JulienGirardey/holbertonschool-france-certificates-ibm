@@ -38,7 +38,7 @@ I will continuously update this repository as I achieve new IBM certifications.
 
 ## Author
 
-**Girardey Julien** (Amélie Briffaut)
+**Girardey Julien**
 
 For any inquiries, feel free to reach out!
 
