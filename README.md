@@ -44,4 +44,4 @@ For any inquiries, feel free to reach out!
 
 ---
 
-*Disclaimer: This repository is for documentation and tracking purposes only. The official certifications and badges are issued by IBM.*
+*Disclaimer: This repository is for documentation and tracking purposes only. The official certifications and badges are issued by IBM.*ls
