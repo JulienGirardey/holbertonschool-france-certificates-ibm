@@ -24,6 +24,7 @@ Chaque trimestre possède son propre dossier contenant les certificats et un REA
 │   └── README.md
 ├── certificates-trimester-3/
 │   ├── IBM CC0101EN Certificate _ IBM SkillsBuild.pdf
+│   ├── IBM Cybersecurity Fundamentals.png
 │   └── README.md
 ```
 
@@ -36,6 +37,7 @@ Chaque trimestre possède son propre dossier contenant les certificats et un REA
 | 2         | Introduction to Databases (DB0101EN)       | 14-06-2025       | IBM DB0101EN Certificate _ IBM SkillsBuild.pdf    |
 | 2         | Project Management Fundamentals            | 14-06-2025       | ProjectManagementFundamentals.pdf                 |
 | 3         | Introduction to Cloud Computing (CC0101EN) | 14-08-2025       | IBM CC0101EN Certificate _ IBM SkillsBuild.pdf    |
+| 3         | Introduction to Cybersecurity (CS0101EN)   | 14-08-2025       | IBM CS0101EN Certificate _ IBM SkillsBuild.pdf    |
 
 ## Utilisation
 - Parcourez les dossiers par trimestre pour consulter les certificats.
