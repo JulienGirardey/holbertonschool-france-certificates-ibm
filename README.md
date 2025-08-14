@@ -1,47 +1,54 @@
 # IBM Certifications Repository
 
-Welcome to my IBM Certifications Repository! This repository serves as a central hub for storing and showcasing all the certifications I obtain through IBM's certification system.
+Bienvenue dans mon dépôt de certifications IBM ! Ce dépôt centralise et organise tous les certificats obtenus via le système IBM SkillsBuild, par trimestre.
 
-## Purpose
+## Objectifs
+- Suivre la progression des certifications IBM.
+- Accéder facilement à chaque certificat obtenu.
+- Servir de portfolio professionnel pour les compétences validées chez IBM.
 
-This repository is designed to:
-- Organize and track my progress in IBM certifications.
-- Provide easy access to my achieved certifications.
-- Serve as a reference for my professional growth in IBM-related technologies.
+## Structure du dépôt
 
-## Structure
-
-Each certification will be stored in a dedicated folder, structured as follows:
+Chaque trimestre possède son propre dossier contenant les certificats et un README associé :
 
 ```
 .
 ├── README.md
-└── certificates-trimester-1
-    └── certificate-oss.pdf
+├── certificates-trimester-1/
+│   ├── IBM OS0101EN Certificate _ IBM SkillsBuild.pdf
+│   ├── IBMDesign20250424-26-now8ap.pdf
+│   └── README.md
+├── certificates-trimester-2/
+│   ├── IBM DB0101EN Certificate _ IBM SkillsBuild.pdf
+│   ├── ProjectManagementFundamentals.pdf
+│   └── README.md
+├── certificates-trimester-3/
+│   ├── IBM CC0101EN Certificate _ IBM SkillsBuild.pdf
+│   └── README.md
 ```
 
-## Certifications List
+## Liste des certifications
 
-| Certification Name | Date Obtained | Badge |
-|-----------------------------|------------|-----------------------------|
-| Introduction to Open Source | 14-03-2025 | <div align="right">🏆</div> |
+| Trimestre | Nom du certificat                          | Date d'obtention | Fichier PDF                                      |
+|-----------|--------------------------------------------|------------------|--------------------------------------------------|
+| 1         | Introduction to Open Source (OS0101EN)     | 14-03-2025       | IBM OS0101EN Certificate _ IBM SkillsBuild.pdf    |
+| 1         | IBM Design Thinking                        | 26-04-2025       | IBMDesign20250424-26-now8ap.pdf                  |
+| 2         | Introduction to Databases (DB0101EN)       | 14-06-2025       | IBM DB0101EN Certificate _ IBM SkillsBuild.pdf    |
+| 2         | Project Management Fundamentals            | 14-06-2025       | ProjectManagementFundamentals.pdf                 |
+| 3         | Introduction to Cloud Computing (CC0101EN) | 14-08-2025       | IBM CC0101EN Certificate _ IBM SkillsBuild.pdf    |
 
-## How to Use This Repository
+## Utilisation
+- Parcourez les dossiers par trimestre pour consulter les certificats.
+- Chaque dossier contient un README avec des détails sur les cours/examens.
+- Ce dépôt sert de vitrine pour les compétences IBM validées.
 
-- Navigate through the folders to view individual certifications.
-- Open the README file inside each certification folder for detailed information about the course/exam.
-- Use this repository as a portfolio to showcase IBM-related expertise.
+## Mises à jour
+Le dépôt sera enrichi à chaque nouvelle certification obtenue.
 
-## Future Updates
-
-I will continuously update this repository as I achieve new IBM certifications.
-
-## Author
-
+## Auteur
 **Girardey Julien**
 
-For any inquiries, feel free to reach out!
+Pour toute question, n'hésitez pas à me contacter !
 
 ---
-
-*Disclaimer: This repository is for documentation and tracking purposes only. The official certifications and badges are issued by IBM.*ls
+*Disclaimer : Ce dépôt est à but documentaire et de suivi. Les certificats officiels sont délivrés par IBM.*
